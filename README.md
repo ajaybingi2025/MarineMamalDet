@@ -4,6 +4,7 @@ This project focuses on detecting multiple marine species—including dolphins, 
 Using a Hybrid CNN + BiLSTM architecture, the model extracts both spatial and temporal features from spectrograms to accurately identify species and estimate their counts within each audio file. This approach combines the strengths of convolutional networks for pattern recognition with recurrent networks for sequence understanding.
 
 **Key Features**
+
 Multi-label species detection: Identifies multiple marine species in a single audio clip.
 
 Species count estimation: Predicts how many distinct vocal events occur for each species.
